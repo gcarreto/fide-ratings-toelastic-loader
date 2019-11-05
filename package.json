@@ -1,0 +1,22 @@
+{
+  "name": "fide-ratings-toelastic-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcarreto/fide-ratings-toelastic-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcarreto/fide-ratings-toelastic-loader/issues"
+  },
+  "homepage": "https://github.com/gcarreto/fide-ratings-toelastic-loader#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.4.0"
+  }
+}
